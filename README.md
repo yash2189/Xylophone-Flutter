@@ -5,7 +5,7 @@ A xylophone app in Flutter
 ![Finished App](https://github.com/yash2189/Xylophone-Flutter/blob/master/xylo.jpg)
 
 # What I learnt:
-* incorporate open source libraries of code into project using Flutter Packages.
+* Incorporate open source libraries of code into project using Flutter Packages.
 * Using Audio in Flutter
 * Bind Audio to Mulitple FlatButton widgets
 * Generate repeated user interface Widgets.
